@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+python-multipart
+pydantic
+requests
+pypdf
+pillow
