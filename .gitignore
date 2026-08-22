@@ -8,3 +8,21 @@ data/uploads/*
 !data/uploads/.gitkeep
 
 .ipynb_checkpoints/
+
+# Secrets and credentials
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
